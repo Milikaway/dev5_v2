@@ -25,3 +25,5 @@ jobs:
         with:
           push: true
           tags: ${{ vars.DOCKERHUB_USERNAME }}/dev5:latest
+
+#изменение
